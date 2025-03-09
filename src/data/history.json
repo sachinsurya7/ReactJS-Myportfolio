@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Java & Mern Full Stack Development",
+      "organisation": "SDLC",
+      "startDate": "Jan 2024",
+      "endDate": "Dec 2024",
+      "experiences": ["Namakkal,Tamilnadu"],
+      "imageSrc": "history/google.jpg"
+    },
+    {
+      "role": "B.E-Robotics & Automation",
+      "organisation": "Muthayammal Engineering College",
+      "startDate": "2020",
+      "endDate": "2024",
+      "experiences": ["Namakkal,Tamilnadu"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Higher Secondary Education",
+      "organisation": "Bharathiyar Educational Institutions",
+      "startDate": "2019",
+      "endDate": "2020",
+      "experiences": [
+        "Attur,Tamilnadu"
+      ],
+      "imageSrc": "history/netflix.jpg"
+    }
+  ]

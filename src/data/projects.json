@@ -1,0 +1,26 @@
+[
+  {
+    "title": "JAVA Project ",
+    "imageSrc": "/projects/project.png",
+    "description": "GUI User and Admin Lodin for Accessing the Data",
+    "skills": [ "Java", "SQL","Java Eclipse","H2 Console"],
+    "demo": "https://github.com/sachinsurya7/Java-project ",
+    "source": "https://github.com/sachinsurya7/Java-project "
+  },
+  {
+    "title": "E-COMMERCE website",
+    "imageSrc": "/projects/project.png",
+    "description": "Online E-Commerce named Furnee-Bro ",
+    "skills": ["HTML", "CSS", "JavaScript", "VisualStudio Code"],
+    "demo": "https://sachinsurya7.github.io/Furnee-Bro-s/",
+    "source": "https://github.com/sachinsurya7/Furnee-Bro-s"
+  },
+  {
+    "title": "ReactJS Project",
+    "imageSrc": "/projects/project.png",
+    "description": "My portfolio ,showcase my skills and Education Details",
+    "skills": ["React", "CSS", "VisualStudio Code","Vite"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
